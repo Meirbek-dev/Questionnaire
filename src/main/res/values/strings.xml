@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Анкета</string>
+    <string name="first_name">Имя:</string>
+    <string name="second_name">Фамилия:</string>
+    <string name="age">Возраст:</string>
+    <string name="gender">Укажите пол:</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="education">Ваше образование:</string>
+    <string name="primary_education">Начальное</string>
+    <string name="secondary_education">Среднее</string>
+    <string name="higher_education">Высшее</string>
+    <string name="country">Ваша страна:</string>
+    <string name="result">Итого</string>
+    <string name="back">Назад</string>
+    <string name="exit">Выйти</string>
+
+    <string-array name="country_arrays">
+        <item>Япония</item>
+        <item>Казахстан</item>
+        <item>Россия</item>
+        <item>США</item>
+        <item>Германия</item>
+        <item>Франция</item>
+    </string-array>
+
+</resources>
